@@ -285,7 +285,7 @@ def main():
         stats["Generated Organisms"].append(organismCount)
         with open('results.txt', 'a') as f:
             f.write(results)
-        time.sleep(0.10)
+        time.sleep(0.25)
 
     averages = "Ran Simulation " + str(testsToRun) + " Time(s).\n"
     for key,val in stats.items():
