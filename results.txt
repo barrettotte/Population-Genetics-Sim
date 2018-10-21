@@ -10,87 +10,87 @@ Parameters:
 
 
 Results of Test 01: 
-   The Ideal Organism Found: ID: 00061-00194, Name: determined detail, Fitness: 5
-   DNA: {'color': ['00000010', '11111110', '00000010']}
-   Total Generations Created: 61
-   Total Organisms Created:   61000
-   Executed for 1.662 seconds
+   The Ideal Organism Found: ID: 00562-00536, Name: verdant birthday, Fitness: 5
+   DNA: {'color': ['00000000', '11111011', '00000001']}
+   Total Generations Created: 562
+   Total Organisms Created:   562000
+   Executed for 15.663 seconds
 
 
 Results of Test 02: 
-   The Ideal Organism Found: ID: 00019-00160, Name: subdued friction, Fitness: 5
-   DNA: {'color': ['00000001', '11111100', '00000001']}
-   Total Generations Created: 19
-   Total Organisms Created:   19000
-   Executed for 0.522 seconds
+   The Ideal Organism Found: ID: 00250-00294, Name: busy kiss, Fitness: 5
+   DNA: {'color': ['00000000', '11111101', '00000011']}
+   Total Generations Created: 250
+   Total Organisms Created:   250000
+   Executed for 6.99 seconds
 
 
 Results of Test 03: 
-   The Ideal Organism Found: ID: 00123-00461, Name: jagged growth, Fitness: 5
-   DNA: {'color': ['00000000', '11111100', '00000010']}
-   Total Generations Created: 123
-   Total Organisms Created:   123000
-   Executed for 3.438 seconds
+   The Ideal Organism Found: ID: 00052-00181, Name: longing clouds, Fitness: 4
+   DNA: {'color': ['00000010', '11111111', '00000010']}
+   Total Generations Created: 52
+   Total Organisms Created:   52000
+   Executed for 1.464 seconds
 
 
 Results of Test 04: 
-   The Ideal Organism Found: ID: 00085-00707, Name: knowledgeable collar, Fitness: 5
-   DNA: {'color': ['00000001', '11111011', '00000000']}
-   Total Generations Created: 85
-   Total Organisms Created:   85000
-   Executed for 2.381 seconds
+   The Ideal Organism Found: ID: 00249-00306, Name: plastic glove, Fitness: 3
+   DNA: {'color': ['00000011', '11111111', '00000000']}
+   Total Generations Created: 249
+   Total Organisms Created:   249000
+   Executed for 6.992 seconds
 
 
 Results of Test 05: 
-   The Ideal Organism Found: ID: 00030-00794, Name: festive agreement, Fitness: 4
-   DNA: {'color': ['00000001', '11111110', '00000010']}
-   Total Generations Created: 30
-   Total Organisms Created:   30000
-   Executed for 0.835 seconds
+   The Ideal Organism Found: ID: 00197-00231, Name: versed bead, Fitness: 5
+   DNA: {'color': ['00000010', '11111101', '00000001']}
+   Total Generations Created: 197
+   Total Organisms Created:   197000
+   Executed for 5.518 seconds
 
 
 Results of Test 06: 
-   The Ideal Organism Found: ID: 00147-00003, Name: auspicious burn, Fitness: 5
-   DNA: {'color': ['00000001', '11111111', '00000100']}
-   Total Generations Created: 147
-   Total Organisms Created:   147000
-   Executed for 4.258 seconds
+   The Ideal Organism Found: ID: 00016-00877, Name: tiresome reward, Fitness: 5
+   DNA: {'color': ['00000001', '11111011', '00000000']}
+   Total Generations Created: 16
+   Total Organisms Created:   16000
+   Executed for 0.457 seconds
 
 
 Results of Test 07: 
-   The Ideal Organism Found: ID: 00247-00272, Name: snotty number, Fitness: 5
+   The Ideal Organism Found: ID: 00223-00740, Name: narrow crime, Fitness: 5
    DNA: {'color': ['00000001', '11111100', '00000001']}
-   Total Generations Created: 247
-   Total Organisms Created:   247000
-   Executed for 6.816 seconds
+   Total Generations Created: 223
+   Total Organisms Created:   223000
+   Executed for 6.223 seconds
 
 
 Results of Test 08: 
-   The Ideal Organism Found: ID: 00088-00328, Name: cuddly spark, Fitness: 2
-   DNA: {'color': ['00000000', '11111110', '00000001']}
-   Total Generations Created: 88
-   Total Organisms Created:   88000
-   Executed for 2.443 seconds
+   The Ideal Organism Found: ID: 00006-00695, Name: imperfect ocean, Fitness: 2
+   DNA: {'color': ['00000010', '11111111', '00000000']}
+   Total Generations Created: 6
+   Total Organisms Created:   6000
+   Executed for 0.187 seconds
 
 
 Results of Test 09: 
-   The Ideal Organism Found: ID: 00090-00693, Name: frightened brass, Fitness: 2
-   DNA: {'color': ['00000000', '11111101', '00000000']}
-   Total Generations Created: 90
-   Total Organisms Created:   90000
-   Executed for 2.547 seconds
+   The Ideal Organism Found: ID: 00002-00039, Name: staking jail, Fitness: 4
+   DNA: {'color': ['00000001', '11111100', '00000000']}
+   Total Generations Created: 2
+   Total Organisms Created:   2000
+   Executed for 0.07 seconds
 
 
 Results of Test 10: 
-   The Ideal Organism Found: ID: 00001-00021, Name: macabre government, Fitness: 3
-   DNA: {'color': ['00000000', '11111111', '00000011']}
-   Total Generations Created: 1
-   Total Organisms Created:   1000
-   Executed for 0.042 seconds
+   The Ideal Organism Found: ID: 00369-00104, Name: humdrum box, Fitness: 5
+   DNA: {'color': ['00000001', '11111100', '00000001']}
+   Total Generations Created: 369
+   Total Organisms Created:   369000
+   Executed for 10.947 seconds
 
 
 Ran Simulation 10 Time(s).
-   Average Error - 4.1
-   Average Execution Time - 2.494
-   Average Generated Generations - 90.1
-   Average Generated Organisms - 89100.0
+   Average Error - 4.3
+   Average Execution Time - 5.451
+   Average Generated Generations - 193.6
+   Average Generated Organisms - 192600.0

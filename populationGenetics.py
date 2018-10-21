@@ -88,9 +88,8 @@ def setMatingChances(generation):
 def generateMatingPool(generation):
     genSize = len(generation)
     pool = []
-    for _ in range(genSize):  # "Weighted Random" of organisms
-        r = random.randint(0, genSize-1)
-        pool.extend([generation[r]] * generation[r]["matingChance"])
+    for i in range(genSize):  # "Weighted Random" of organisms
+        pool.extend([generation[i]] * generation[i]["matingChance"])
     return pool
 
 def newGeneration(matingPool, genSize, genIter):
