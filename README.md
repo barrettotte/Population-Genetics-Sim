@@ -1,6 +1,16 @@
 # Population Genetics
 Simulate basic population genetics on fake creatures' DNA. Concepts of mutation, crossover, fitness distribution covered
 
+## Process
+* **Initialize** - Population N random DNA
+* **Selection** - Evaluate fitness, generate mating pool
+* **Reproduction** - Repeat N times, pick parents based on "weighted random" of mating rate
+* **Crossover** - Combine DNA through some crossover method
+* **Mutation** - Mutate child based on mutation rate
+* Add child to new generation
+* Discard old population
+* Repeat until ideal organism within ideal error is found
+
 ## Summary
 * This script will simulate a generation of "creatures" generation after generation until the ideal color allele is found.
 * Each creature has one allele in their "DNA" for color and is passed to offspring based on fundamentals of genetics (crossover, mutation). 
