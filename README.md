@@ -11,6 +11,12 @@ Simulate basic population genetics on fake creatures' DNA. Concepts of mutation,
 * Discard old population
 * Repeat until ideal organism within ideal error is found
 
+### Additional Process
+* A percentage of "Top" fitness organisms will asexually reproduce to keep their ideal DNA in the mating pool.
+* There is a small chance a random organism will asexually reproduce
+* There is a small chance that Parent 1 will not pass any DNA and will be replaced by newly generated DNA.
+* An "Ideal Error" was introduced to speed up the algorithm's execution time, since it always got close, but sometimes never made a fitness value of 0.
+
 ## Summary
 * This script will simulate a generation of "creatures" generation after generation until the ideal color allele is found.
 * Each creature has one allele in their "DNA" for color and is passed to offspring based on fundamentals of genetics (crossover, mutation). 
