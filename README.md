@@ -1,6 +1,9 @@
 # Population Genetics
 Simulate basic population genetics on fake creatures' DNA. Concepts of mutation, crossover, fitness distribution covered
 
+Used for ProcJam 2018, repo located here https://github.com/barrettotte/ProcJam-2018
+
+
 ## Process
 * **Initialize** - Population N random DNA
 * **Selection** - Evaluate fitness, generate mating pool
